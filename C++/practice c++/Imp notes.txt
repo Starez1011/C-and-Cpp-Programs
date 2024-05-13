@@ -1,0 +1,6 @@
+Things to keep in mind
+
+1. Always make branch from default branch
+2. Merge your branch to default branch after checking out to default branch
+3. Once merged branch shouldn't be used again thus delete after merge
+4. You can only delete branch after checking out to other branch. 
